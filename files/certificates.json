@@ -1,0 +1,33 @@
+[
+    {
+      "Title": "Software Engineering Virtual Experience - JP Morgan",
+      "link": "https://drive.google.com/file/d/1DkVc9Ha30j6Oyn76oRceHsAw9LgAqd8a/view?usp=drive_link",
+      "Img_src": "assets/certificate_img/Forage Virtual Internship.png",
+      "certificatedId": "Q2Z4fmuqhq5TABTLA "
+    },
+    {
+        "Title": "SQL Basic Certification - HackerRank",
+        "link": "https://drive.google.com/file/d/1is-OwxL8v4u-dpphn1rmClE1e4StHBlO/view?usp=drive_link",
+        "Img_src": "assets/certificate_img/HackerRank SQL Certificate.png",
+        "certificatedId": "588CAC649906"
+      },
+      {
+        "Title": "Official English Certification - EF SET",
+        "link": "https://www.efset.org/cert/b98LEK",
+        "Img_src": "assets/certificate_img/EF SET English Proficiency.png",
+        "certificatedId": "cert/b98LEK"
+      },
+      {
+        "Title": "Python - Udemy",
+        "link": "https://www.udemy.com/certificate/UC-ea5d264c-9599-4360-8582-85debb72a524/",
+        "Img_src": "assets/certificate_img/Python Certificate.png",
+        "certificatedId": "0004"
+      },
+      {
+        "Title": "Cloud Computing - NPTEL",
+        "link": "https://drive.google.com/file/d/1prnadGEeK0uwrFlhqiczDlfAf4nEzofP/view?usp=sharing",
+        "Img_src": "assets/certificate_img/NPTEL Cloud Computing .jpeg",
+        "certificatedId": "2384382NH0"
+      }
+      ]
+  

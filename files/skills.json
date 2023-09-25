@@ -1,0 +1,18 @@
+{
+    "C++": 65,
+    "python":80,
+    "java":70,
+    "HTML":75, 
+    "CSS":75, 
+    "JavaScript":40,
+    "Flask":60,
+    "Django":60, 
+    "Bootstrap":60,
+    "TensorFlow":70, 
+    "Scikit-learn":65, 
+    "NumPy":85, 
+    "Pandas":85, 
+    "Matplotlib":50, 
+    "MySQL":70
+   
+}
