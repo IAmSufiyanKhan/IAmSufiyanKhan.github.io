@@ -1,0 +1,30 @@
+[
+    {
+      "Title": "Hire and Join Website",
+      "link": "https://github.com/IAmSufiyanKhan/Hirejoinweb",
+      "Time": "2023(Aug) - 2023(Sep)",
+      "description": "This website provides end to end human resource management to organization and help them address their critical talent needs by providing comprehensive workforce management form recruitment process.",
+      "img": "assets/projects/Hire and Join Website.png"
+    },
+    {
+        "Title": "FacerecognitionGUIApp",
+        "link": "https://github.com/IAmSufiyanKhan/FacerecognitionGUIApp",
+        "Time": "2023(Feb) - 2023(Apr)",
+        "description": "The app was built using OpenCV libraries and involved analyzing pixel data in real- time .",
+        "img": "assets/projects/FacerecognitionGUIApp.png"
+      },
+    {
+      "Title": "Enterprise_BOT API",
+      "link": "https://github.com/IAmSufiyanKhan/Enterprise_BOT",
+      "Time": "2022(Dec) - 2023(Jan)",
+      "description": "A simple script to post a random Wikipedia article along with the summary to a telegram group using node.js",
+      "img": "assets/projects/Enterprise_BOT API.png"
+    },
+      {
+        "Title": "Student-performance-Detection",
+        "link": "https://github.com/IAmSufiyanKhan/Student-performance-Detection",
+        "Time": "2022(Jun) - 2022(July)",
+        "description": "This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file.",
+        "img": "assets/projects/Student-performance-Detection.png"
+      }
+  ]
